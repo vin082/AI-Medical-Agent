@@ -1,0 +1,13 @@
+prefix=E:/AI Agents/Personalized Fitness/awesome-llm-apps/ai_agent_tutorials/ai_medical_imaging_agent/myvenv/Library
+exec_prefix=E:/AI Agents/Personalized Fitness/awesome-llm-apps/ai_agent_tutorials/ai_medical_imaging_agent/myvenv/Library
+libdir=E:/AI Agents/Personalized Fitness/awesome-llm-apps/ai_agent_tutorials/ai_medical_imaging_agent/myvenv/Library/lib
+sharedlibdir=E:/AI Agents/Personalized Fitness/awesome-llm-apps/ai_agent_tutorials/ai_medical_imaging_agent/myvenv/Library/lib
+includedir=E:/AI Agents/Personalized Fitness/awesome-llm-apps/ai_agent_tutorials/ai_medical_imaging_agent/myvenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
