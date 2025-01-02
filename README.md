@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Imaging Diagnosis Agent
 
 A Medical Imaging Diagnosis Agent build on phidata powered by Gemini 2.0 Flash Experimental that provides AI-assisted analysis of medical images of various scans. The agent acts as a medical imaging diagnosis expert to analyze various types of medical images and videos, providing detailed diagnostic insights and explanations.
@@ -64,3 +65,7 @@ A Medical Imaging Diagnosis Agent build on phidata powered by Gemini 2.0 Flash E
 ## Disclaimer
 
 This tool is for educational and informational purposes only. All analyses should be reviewed by qualified healthcare professionals. Do not make medical decisions based solely on this analysis.
+=======
+# AI-Medical-Agent
+AI Medical Agent to scan and analyze CT/XRAY images and provide suggestions
+>>>>>>> bad44ebbe46619b0357ebd4c7f897065225e837b
